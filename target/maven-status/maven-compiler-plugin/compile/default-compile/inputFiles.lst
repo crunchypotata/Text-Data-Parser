@@ -1,0 +1,14 @@
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/Main.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/io/DepartmentWriter.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/io/ErrorLogger.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/io/FileScanner.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/io/StatWriter.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/model/Department.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/model/Employee.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/model/Manager.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/model/Person.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/parse/LineParser.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/service/DepartmentService.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/service/SortService.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/service/StatsService.java
+/Users/alex/Documents/Code/Corona/sigmabank-sb-processor/src/main/java/com/example/sigmabank/util/Args.java
